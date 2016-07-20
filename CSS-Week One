@@ -1,0 +1,39 @@
+MY PROJECT CODE
+<style>
+/* Start typing your CSS below! */
+h1 {
+color: purple;
+font-size: 24px;
+font-family: arial;
+font-variant: smalls caps;
+font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+color: blue;
+font-size: 24px;
+font-family: Georgia;
+font-variant: smalls caps;
+font-weight: bold;
+}
+
+p {
+color: #020202;
+font-size: 24px;
+font-family: sans-serif;
+line-height: 30px
+text-indent: 10em;
+}
+</style>
+
+<h1>Question:</h1>
+<p> A house has four walls. All of the walls are facing south, and a bear is circling the house. What color is the bear?</p>
+<ol> 
+    <li> Red
+    <li> Blue
+        <li> Green
+            <ol/>
+    
+<h2>Answer:</h2>
+<p>The house is on the north pole, so the circling bear is white.</p>
